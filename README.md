@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687413/retina_1708x683_cover-0402-an-introduction-to-mocking-in-python-Waldek_Newsletter-fdc7cce1eda95aee17e25b769a2bd183.png" alt="image-python" height="500" width="1000"/>
+  <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687413/retina_1708x683_cover-0402-an-introduction-to-mocking-in-python-Waldek_Newsletter-fdc7cce1eda95aee17e25b769a2bd183.png" alt="image-python" height="450" width="820"/>
 </div>
 
 - Projetos de um evento no youtube para aprender um pouco sobre alguns tópicos usando python:
